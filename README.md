@@ -1,8 +1,6 @@
 # ParralelProgramming
 ####NOTE####
-###
-##
-#
+
 .zip includes all project files.
 ###
 ##
