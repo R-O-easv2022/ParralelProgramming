@@ -1,4 +1,12 @@
 # ParralelProgramming
+####NOTE####
+###
+##
+#
+.zip includes all project files.
+###
+##
+#
 
 This Compulsory Assignment is prepared by one student **Rolan Ossi**.
 
